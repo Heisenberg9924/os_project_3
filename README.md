@@ -124,3 +124,5 @@ Both combined and printed from `merged.txt`.
 ## 👨‍💻 Contributors
 
 * **RUPDEEP RAY (24CS8023)**
+
+* NIJAMPUDI RAM CHARAN (24CS8024)
